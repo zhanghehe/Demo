@@ -10,4 +10,6 @@ public class PathPoint {
     public static final int BZER = 2;
     public float x, y;
     public float x0, y0, x1, y2, x3, y3;
+    public int flag;
+
 }
